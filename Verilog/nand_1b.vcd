@@ -1,0 +1,38 @@
+$date
+	Sun Jul  6 23:47:56 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module nand_1b_test $end
+$var wire 1 ! y $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$scope module uut $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 ! y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0#
+0"
+1!
+$end
+#10000
+1#
+#20000
+0#
+1"
+#30000
+0!
+1#
+#40000
